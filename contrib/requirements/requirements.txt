@@ -7,7 +7,7 @@ aiorpcX>=0.18.0,<0.19
 bitcoinX>=0.2.4,<0.2.5
 certifi
 dmgbuild
-dnspython<2.0
+dnspython<3.0
 electrumsv-secp256k1==0.9.3
 ecdsa>=0.13.3
 jsonrpclib-pelix
