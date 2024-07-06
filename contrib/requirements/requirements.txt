@@ -1,5 +1,5 @@
 # NOTE(rt) Why do we pin this? Needs documentation.
-aiohttp>=3.6.2,<=3.7.3
+aiohttp<=3.9.5,>=3.9.5
 # NOTE(rt) Why do we pin this? Needs documentation.
 aiorpcX>=0.18.0,<0.19
 # Pinned due to large amounts of API changes we are not going to support in the
@@ -7,7 +7,7 @@ aiorpcX>=0.18.0,<0.19
 bitcoinX>=0.2.4,<0.2.5
 certifi
 dmgbuild
-dnspython<2.0
+dnspython<3.0
 electrumsv-secp256k1==0.9.3
 ecdsa>=0.13.3
 jsonrpclib-pelix
